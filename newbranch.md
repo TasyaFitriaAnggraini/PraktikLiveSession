@@ -1,2 +1,1 @@
-branch bary=u nih
-ada perubahan
+ini yang baru
