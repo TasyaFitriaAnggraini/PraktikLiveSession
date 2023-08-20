@@ -1,2 +1,1 @@
-percubaan buat branch
-percubaan KONFLIK
+ini yang salah
