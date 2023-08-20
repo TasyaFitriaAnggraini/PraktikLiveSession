@@ -1,1 +1,1 @@
-latihan membuat konflik
+membuat manajemen konflik
