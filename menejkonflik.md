@@ -1,1 +1,0 @@
-latihan menejemen konflik
